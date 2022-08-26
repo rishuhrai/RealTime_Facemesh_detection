@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/real_time_face_mesh_detection/static/css/main.073c9b0a.css",
+    "main.js": "/real_time_face_mesh_detection/static/js/main.ab7cdd9f.js",
+    "static/js/787.1a45ec54.chunk.js": "/real_time_face_mesh_detection/static/js/787.1a45ec54.chunk.js",
+    "index.html": "/real_time_face_mesh_detection/index.html",
+    "main.073c9b0a.css.map": "/real_time_face_mesh_detection/static/css/main.073c9b0a.css.map",
+    "main.ab7cdd9f.js.map": "/real_time_face_mesh_detection/static/js/main.ab7cdd9f.js.map",
+    "787.1a45ec54.chunk.js.map": "/real_time_face_mesh_detection/static/js/787.1a45ec54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ab7cdd9f.js"
+  ]
+}
